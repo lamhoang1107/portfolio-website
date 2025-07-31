@@ -96,11 +96,11 @@ platform.</li>
     links: [
       {
         label: "MFC",
-        url: "https://play.google.com/store/apps/details?id=com.doctornetwork.doctorassitant",
+        url: "https://mfc.mcv.com.vn/",
       },
       {
         label: "PrideFEST",
-        url: "https://apps.apple.com/vn/app/doctor-assistant/id6477260207",
+        url: "https://pridefest.mcv.com.vn/",
       }
     ],
   },
